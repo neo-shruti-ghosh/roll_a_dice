@@ -1,0 +1,56 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  padding: 50px;
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #ffffff;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Sans-serif', cursive;
+  font-size: 3rem;
+  color: #EE6983;
+}
+
+p {
+  font-size: 1.5rem;
+  color: #EE6983;
+  font-family: 'Sans-serif', cursive;
+}
+
+img {
+  width: 100%;
+}
+
+.button{
+  margin-top: 100px;
+  margin-bottom: 100px;
+  width: 100%;
+  text-align: center;
+}
+button{
+  width: 180px;
+  height: 40px;
+  background-color: #EE6983;
+  border-color: transparent;
+  border-radius: 5px;
+}
+
+
+footer {
+  margin-top: 5%;
+  color: #EE6983;
+  text-align: center;
+  font-family: 'Sans-serif', cursive;
+
+}
